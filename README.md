@@ -95,7 +95,7 @@ This circuit is **NOT electrically isolated** from the AC mains.
 ---
 
 ## 📷 Project Preview
-
+<img width="889" height="271" alt="Image" src="https://github.com/user-attachments/assets/2b8ae6dc-fd7f-4e1a-b0af-5f0953378322" />
 
 ---
 
